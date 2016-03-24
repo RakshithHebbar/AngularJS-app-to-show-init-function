@@ -1,0 +1,1 @@
+# AngularJS-app-to-show-init-function
